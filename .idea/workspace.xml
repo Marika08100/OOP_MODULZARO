@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7fc1b1-20ec-41d8-841c-375a70289e45" name="Changes" comment="shape is rdy">
-      <change afterPath="$PROJECT_DIR$/src/shape/NegativOrZeroException.java" afterDir="false" />
+    <list default="true" id="cb7fc1b1-20ec-41d8-841c-375a70289e45" name="Changes" comment="is rdy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/person/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/LengthWidthOutOfBoundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/RadiusOutOfBoundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/SideOutOfBoundsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shape/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690020941969</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="is rdy">
+      <option name="closed" value="true" />
+      <created>1690022096658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690022096658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zoo is rdy" />
     <MESSAGE value="shape is rdy" />
-    <option name="LAST_COMMIT_MESSAGE" value="shape is rdy" />
+    <MESSAGE value="is rdy" />
+    <option name="LAST_COMMIT_MESSAGE" value="is rdy" />
   </component>
 </project>

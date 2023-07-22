@@ -71,16 +71,8 @@ public class Person {
 
     @Override
     public String toString() {
-        StringBuilder friendNames = new StringBuilder();
-        for (Person friend : friends) {
-            if (friendNames.length() > 0) {
-                friendNames.append(", ");
-            }
-            friendNames.append(friend.getName());
-        }
-
         return "Name: " + name + ", Age: " + age + ", Gender: " + gender +
-                ", Hobbies: " + hobbies + ", Friends: " + friendNames;
+                ", Hobbies: " + hobbies;
     }
 }
 
