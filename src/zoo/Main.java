@@ -10,7 +10,7 @@ public class Main {
         zoo.addAnimals(new Eagle("Örn", 3));
         zoo.addAnimals(new Penguin("Pingu", 30));
 
-        zoo.addAnimals(new Snake("Kígyó", 4));
+        zoo.addAnimals(new Snake("Kígyiiii", 4));
         zoo.addAnimals(new Turtle("Torti", 25));
         System.out.println("Összes állat:");
         zoo.printAllAnimals();

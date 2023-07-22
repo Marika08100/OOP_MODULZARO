@@ -4,35 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7fc1b1-20ec-41d8-841c-375a70289e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_MODULZARO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Birds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Oviparous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Viviparous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Zoo.java" afterDir="false" />
+    <list default="true" id="cb7fc1b1-20ec-41d8-841c-375a70289e45" name="Changes" comment="zoo is rdy">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/LengthWidthOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/RadiusOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/SideOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1690013794715</updated>
     </task>
+    <task id="LOCAL-00001" summary="zoo is rdy">
+      <option name="closed" value="true" />
+      <created>1690019117721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690019117721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zoo is rdy" />
+    <option name="LAST_COMMIT_MESSAGE" value="zoo is rdy" />
   </component>
 </project>
