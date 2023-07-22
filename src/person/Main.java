@@ -18,6 +18,7 @@ public class Main {
 
         System.out.println("John's friends: " + john.getFriends());
         System.out.println("Mary's friends: " + mary.getFriends());
+        System.out.println("Katy's friends: " + katy.getFriends());
 
         System.out.println("Population: " + Person.getPopulation());
     }
