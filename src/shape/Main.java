@@ -15,7 +15,7 @@ public class Main {
             System.out.println("The perimeter of the rectangle: " + rectangle.calculatePerimeter());
             System.out.println("The area of the rectangle: " + rectangle.calculateArea());
 
-        } catch (NegativOrZeroException e) {
+        } catch (NegativeOrZeroException e) {
             System.out.println("Error: " + e.getMessage());
         }
     }

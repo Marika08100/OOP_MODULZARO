@@ -3,9 +3,9 @@ package shape;
 public class Circle extends Shape{
     private double radius;
 
-    public Circle(double radius) throws NegativOrZeroException {
+    public Circle(double radius) throws NegativeOrZeroException {
         if(radius <= 0){
-            throw new NegativOrZeroException(("The radius cannot be 0 or negative!"));
+            throw new NegativeOrZeroException(("The radius cannot be 0 or negative!"));
         }
         this.radius = radius;
     }
