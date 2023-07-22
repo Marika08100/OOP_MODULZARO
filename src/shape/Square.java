@@ -3,9 +3,9 @@ package shape;
 public class Square extends Shape{
     private double side;
 
-    public Square(double side) throws SideOutOfBoundsException {
+    public Square(double side) throws NegativOrZeroException {
         if(side <= 0){
-            throw new SideOutOfBoundsException("Az oldal hossza nem lehet 0,vagy negativ!");
+            throw new NegativOrZeroException("The side cannot be 0 or negative!");
         }
         this.side = side;
     }

@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Person john = new Person("John", 30, Gender.MALE, List.of("reading", "swimming"));
+        Person john = new Person("John", 30, Gender.FEMALE, List.of("reading", "swimming"));
         Person mary = new Person("Mary", 25, Gender.FEMALE, List.of("painting", "dancing"));
 
         System.out.println(john);

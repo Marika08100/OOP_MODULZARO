@@ -2,7 +2,7 @@ package bank;
 
 public class Main {
     public static void main(String[] args) throws InsufficientBalanceException {
-        BankAccount account = new BankAccount("John Doe", 1000.0, "123456789");
+        BankAccount account = new BankAccount("John", 1000.0, "123456789");
         System.out.println("Account number: " + account.getAccountNumber());
         System.out.println("Account name: " + account.getAccountName());
         System.out.println("Balance: " + account.getBalance());

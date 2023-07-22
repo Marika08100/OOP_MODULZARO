@@ -4,9 +4,9 @@ public class Rectangle extends Shape{
     private double length;
     private double width;
 
-    public Rectangle(double length, double width) throws LengthWidthOutOfBoundsException {
+    public Rectangle(double length, double width) throws NegativOrZeroException {
         if(length <= 0 || width <= 0){
-            throw new LengthWidthOutOfBoundsException("Az oldalak hossza nem lehet 0,vagy negativ!");
+            throw new NegativOrZeroException("Sides cannot be 0 or negative!");
         }
         this.length = length;
         this.width = width;
